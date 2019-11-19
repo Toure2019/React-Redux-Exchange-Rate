@@ -1,5 +1,5 @@
-# React-Redux-Starter-Create-React-App
+# React-Redux-Exchange-Rate
 
-Ce repo est une copie du projet  React-Redux-Starter seulement celui ci a été installé avec la commande create-react-app
+npm install
 
-De plus les versions de react et redux y sont plus récente.
+npm start
